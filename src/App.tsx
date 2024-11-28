@@ -11,7 +11,7 @@ const App: React.FC = () => {
     <div>
       <nav className="navbar navbar-expand navbar-dark bg-dark">
         <a href="/tutorials" className="navbar-brand">
-          bezKoder
+          Tutorial
         </a>
         <div className="navbar-nav mr-auto">
           <li className="nav-item">
